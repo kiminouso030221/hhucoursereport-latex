@@ -5,13 +5,13 @@
 This template aims at personal study or referencing by students, users should be responsible for any losses caused by this template.
 
 #### Files in this repository：  
-README.md           <&nbsp;&nbsp>        说明文件(中文)    
-README.en.md      &nbsp;&nbsp          readme file (English)    
-badge.png         &nbsp;&nbsp         HHU Badge (png format, transparent canvas used)    
-hhu.png           &nbsp;&nbsp         HHU name (png format, transparent canvas used)    
-hhutemplate.cls   &nbsp;&nbsp         template file for course report.    
-templateimpl.tex  &nbsp;&nbsp         tex file that used hhutemplate.cls    
-templateimpl.pdf   &nbsp;&nbsp        pdf file compiled by xelatex.exe Version 3.141592653-2.6-0.999994    
+README.md          &emsp;        说明文件(中文)    
+README.en.md      &emsp;          readme file (English)    
+badge.png         &emsp;         HHU Badge (png format, transparent canvas used)    
+hhu.png           &emsp;         HHU name (png format, transparent canvas used)    
+hhutemplate.cls   &emsp;         template file for course report.    
+templateimpl.tex  &emsp;         tex file that used hhutemplate.cls    
+templateimpl.pdf  &emsp;        pdf file compiled by xelatex.exe Version 3.141592653-2.6-0.999994    
 
 
 When downloded，files must be put together. Using \documentclass{hhutemplate} to apply this template.    
