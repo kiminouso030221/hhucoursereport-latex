@@ -6,8 +6,8 @@ This template aims at personal study or referencing by students, users should be
 
 #### Files in this repository：
 | README.md | 说明 |
-| README.en.md |file (English) |
-| badge.png |HHU Badge (png format, transparent canvas used)|
+| README.en.md | file (English) |
+| badge.png | HHU Badge (png format, transparent canvas used) |
 | hhu.png | HHU name (png format, transparent canvas used) |
 | hhutemplate.cls | template file for course report. |
 | templateimpl.tex | tex file that used hhutemplate.cls |
