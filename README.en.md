@@ -6,9 +6,9 @@ This template aims at personal study or referencing by students, users should be
 
 #### Files in this repository：
 
-README.md &emsp;&emsp;&emsp; 说明文件(中文)    
-README.en.md &emsp;&emsp;&emsp;readme file (English)    
-badge.png &emsp;&emsp;&emsp; HHU Badge (png format, transparent canvas used)    
+README.md &emsp;&emsp;&emsp;&emsp;&emsp; 说明文件(中文)    
+README.en.md &emsp;&emsp;&emsp;&emsp;readme file (English)    
+badge.png &emsp;&emsp;&emsp;&emsp; HHU Badge (png format, transparent canvas used)    
 hhu.png &emsp;&emsp;&emsp;&emsp; HHU name (png format, transparent canvas used)    
 hhutemplate.cls &emsp;&emsp;&emsp;&emsp; template file for course report.    
 templateimpl.tex &emsp;&emsp;&emsp;&emsp;tex file that used hhutemplate.cls    
