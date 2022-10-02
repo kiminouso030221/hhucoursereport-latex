@@ -5,7 +5,7 @@
 This template aims at personal study or referencing by students, users should be responsible for any losses caused by this template.
 
 #### Files in this repository：  
-README.md           &nbsp;&nbsp        说明文件(中文)    
+README.md           <&nbsp;&nbsp>        说明文件(中文)    
 README.en.md      &nbsp;&nbsp          readme file (English)    
 badge.png         &nbsp;&nbsp         HHU Badge (png format, transparent canvas used)    
 hhu.png           &nbsp;&nbsp         HHU name (png format, transparent canvas used)    
