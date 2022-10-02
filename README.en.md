@@ -7,22 +7,13 @@ This template aims at personal study or referencing by students, users should be
 #### Files in this repository：
 | 文件名 | 说明 |
 | ---- |---- |
-| README.md | 说明 |
-| README.en.md | file (English) |
+| README.md | 自述文件(中文)  |
+| README.en.md | readme file (English) |
 | badge.png | HHU Badge (png format, transparent canvas used) |
 | hhu.png | HHU name (png format, transparent canvas used) |
 | hhutemplate.cls | template file for course report. |
 | templateimpl.tex | tex file that used hhutemplate.cls |
-| templateimpl.pdf | pdf file compiled by xelatex.exe Version 3.141592653-2.6-0.999994 |
-
-README.md 说明文件(中文)    
-README.en.md &emsp;&emsp;&emsp;&emsp;readme file (English)    
-badge.png &emsp;&emsp;&emsp;&emsp; HHU Badge (png format, transparent canvas used)    
-hhu.png &emsp;&emsp;&emsp;&emsp; HHU name (png format, transparent canvas used)    
-hhutemplate.cls &emsp;&emsp;&emsp;&emsp; template file for course report.    
-templateimpl.tex &emsp;&emsp;&emsp;&emsp;tex file that used hhutemplate.cls    
-templateimpl.pdf &emsp;&emsp;&emsp;&emsp;  pdf file compiled by xelatex.exe Version 3.141592653-2.6-0.999994    
-
+| templateimpl.pdf | pdf file compiled by xelatex.exe Version 3.141592653-2.6-0.999994 | 
 
 When downloded，files must be put together. Using \documentclass{hhutemplate} to apply this template.    
 You can edit hhutemplate.cls for changing styles of the template.    
