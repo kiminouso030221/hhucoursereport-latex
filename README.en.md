@@ -1,36 +1,27 @@
-# latex河海大学课程报告模版
+# latex HHU Course Report Template
 
 #### Description
-latex河海大学课程报告模版
+# latex HHU Course Report Template. completed on 2022/10/1.  
+This template aims at personal study or referencing by students, users should be responsible for any losses caused by this template.
 
-#### Software Architecture
-Software architecture description
+#### 使用说明
 
-#### Installation
+仓库文件说明：
+README.md                   说明文件(中文)
+README.en.md                readme file (English)
+badge.png                   HHU Badge (png format, transparent canvas used)
+hhu.png                     HHU name (png format, transparent canvas used)
+hhutemplate.cls             template file for course report.
+templateimpl.tex            tex file that used hhutemplate.cls
+templateimpl.pdf            pdf file compiled by xelatex.exe Version 3.141592653-2.6-0.999994
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
-#### Instructions
+When downloded，files must be put together. Using \documentclass{hhutemplate} to apply this template.
+You can edit hhutemplate.cls for changing styles of the template.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+This template works well on Windows10 Professional 21H1 + VSCode + latex workshop + xelatex Version 3.141592653-2.6-0.999994
 
 #### Contribution
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+xjc, student in Grade 2021, HHU
 
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
