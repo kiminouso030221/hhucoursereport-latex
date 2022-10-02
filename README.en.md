@@ -5,7 +5,7 @@
 This template aims at personal study or referencing by students, users should be responsible for any losses caused by this template.
 
 #### Files in this repository：
-| 文件名 | 说明 |
+| filename | description |
 | ---- |---- |
 | README.md | 自述文件(中文)  |
 | README.en.md | readme file (English) |
