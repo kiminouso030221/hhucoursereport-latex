@@ -5,12 +5,8 @@
 This template aims at personal study or referencing by students, users should be responsible for any losses caused by this template.
 
 #### Files in this repository：
-| 2  |  4 |
-|---|---|
-|  2 |  5 |
-|   |   |
-|   |   |
-
+| 文件名 | 说明 |
+| ---- |---- |
 | README.md | 说明 |
 | README.en.md | file (English) |
 | badge.png | HHU Badge (png format, transparent canvas used) |
@@ -19,7 +15,7 @@ This template aims at personal study or referencing by students, users should be
 | templateimpl.tex | tex file that used hhutemplate.cls |
 | templateimpl.pdf | pdf file compiled by xelatex.exe Version 3.141592653-2.6-0.999994 |
 
-README.md &emsp;&emsp;&emsp;&emsp;&emsp; 说明文件(中文)    
+README.md 说明文件(中文)    
 README.en.md &emsp;&emsp;&emsp;&emsp;readme file (English)    
 badge.png &emsp;&emsp;&emsp;&emsp; HHU Badge (png format, transparent canvas used)    
 hhu.png &emsp;&emsp;&emsp;&emsp; HHU name (png format, transparent canvas used)    
