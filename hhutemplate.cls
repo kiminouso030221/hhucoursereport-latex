@@ -1,4 +1,4 @@
-% 2022/10/1 Written by Xu Jinchen,Hohai University
+% 2022/10/1 Written by Kiminouso,Hohai University
 \ProvidesClass{hhutemplate}
 \LoadClass[12pt]{article}
 \RequirePackage[UTF8,heading=true]{ctex}
