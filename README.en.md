@@ -1,6 +1,6 @@
 # HHU Course Report Template(latex)
 
-Considering some international students may have the need of template, English version of readme was posted. 
+Considering some international students may have the need of this template, English version of readme was posted. 
 
 #### Description
 # latex HHU Course Report Template. completed on 2022/10/1.  
