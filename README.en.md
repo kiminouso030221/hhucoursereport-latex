@@ -1,5 +1,7 @@
 # HHU Course Report Template(latex)
 
+Considering some international students may have the need of template, English version of readme was posted. 
+
 #### Description
 # latex HHU Course Report Template. completed on 2022/10/1.  
 This template aims at personal study or referencing by students, users should be responsible for any losses caused by this template.
@@ -22,5 +24,5 @@ This template works well on Windows10 Professional 21H1 + VSCode + latex worksho
 
 #### Contribution    
 
-xjc, student in Grade 2021, HHU    
+kiminouso, student in Grade 2021, HHU    
 
