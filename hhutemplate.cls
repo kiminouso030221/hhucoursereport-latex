@@ -228,7 +228,7 @@ subsubsection = {
     format={\flushleft\sffamily\hei\zihao{-4}},
     beforeskip={13pt},
     afterskip={13pt},
-    name={\textbf{\arabic{section}.\arabic{subsubsection}.}},
+    name={\textbf{\arabic{section}.\arabic{subsection}.}},
     number={\textbf{\arabic{subsubsection}}}
 }
 }
